@@ -2,10 +2,10 @@
 
 My name is Lucas, I'm 20 and I live in São Paulo, Brazil.
 
-I'm a bachelor student at Universidade Federal do ABC (UFABC) and here you'll be able to see the beggining of my journey with development!
+I'm a bachelor student at Universidade Federal do ABC (UFABC) and here you'll be able to see my journey with development!
 
-💼 **OPEN TO WORK** - São Paulo-SP / Remote 💼
-(Click [here](https://www.linkedin.com/in/lucas-r-freitas/) for more info)
+💼 **OPEN TO WORK** - São Bernardo do Campo-SP | São Paulo-SP / Remote 💼
+([Click here](https://www.linkedin.com/in/lucas-r-freitas/) for more info)
 
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning how to be a good FullStack Developer, and I'm working very hard on it 💪! 
