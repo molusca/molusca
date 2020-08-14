@@ -1,4 +1,4 @@
-## Here's little about me 🖖
+## Here's a little about me 🖖
 
 My name is Lucas, I'm 20 and I live in São Paulo, Brazil.
 
