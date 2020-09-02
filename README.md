@@ -1,16 +1,22 @@
-## Here's a little about me 🖖
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-My name is Lucas, I'm 20 and I live in São Paulo, Brazil.
+<a href="https://www.linkedin.com/in/lucas-r-freitas/">
+  <img align="left" alt="Lucas' Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/molusca">
+  <img align="left" alt="Lucas' Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/moLusca">
+  <img align="left" alt="Lucas' Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-I'm a bachelor student at Universidade Federal do ABC (UFABC) and here you'll be able to see my journey with development!
+### I am Lucas Freitas
+👨‍💻 Jr. FullStack dev  
+🌎 São Paulo - SP, Brazil  
+📚 Sciences and Humanites Undergraduate Student at UFABC  
+🤓 Currently working on some Front End projects and increasing my portfolio  
+💼 I'm currently looking for opportunities  
 
-💼 **OPEN TO WORK** - São Bernardo do Campo-SP | São Paulo-SP / Remote 💼
-([Click here](https://www.linkedin.com/in/lucas-r-freitas/) for more info)
-
-- 🔭 I’m currently working on my personal website
-- 🌱 I’m currently learning how to be a good FullStack Developer, and I'm working very hard on it 💪! 
-- 👯 I’m looking to collaborate on Python, HTML or CSS
-- 🤔 I’m looking for some tips and good advices about my projects
-- 💬 Ask me about anything!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lucas-r-freitas/) | [E-mail](mailto:pro.lucasrfreitas@gmail.com)
-- ⚡ Fun fact: When I was about 13 I used to think that development wasn't for me, and those thoughts kept me away from even trying to learn it. Due to the Covid-19 quarantine I started learning and realized that I should have done it earlier 😅😅😅
+🏅 **Visit [my website](https://lucasfreitas.vercel.app/) to see more info about me**  
