@@ -15,7 +15,7 @@
 ### I am Lucas Freitas
 👨‍💻 Jr. FullStack dev  
 🌎 São Paulo - SP, Brazil  
-📚 Sciences and Humanites Undergraduate Student at UFABC  
+📚 Economics Undergraduate Student at UFABC  
 🤓 Currently working on some Front End projects and increasing my portfolio  
 💼 I'm currently looking for opportunities  
 
