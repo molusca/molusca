@@ -13,10 +13,11 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Lucas Freitas
-👨‍💻 Jr. FullStack dev  
+👨‍💻 Jr. Front End dev  
 🌎 São Paulo - SP, Brazil  
 📚 Economics Undergraduate Student at UFABC  
 🤓 Currently working on some Front End projects and increasing my portfolio  
-💼 I'm currently looking for opportunities  
+💼 I'm currently looking for opportunities 
+🛠 Angular | Vue.js | JavaScript | TypeScript | Python
 
 🏅 **Visit [my website](https://lucasfreitas.vercel.app/) to see more info about me**  
