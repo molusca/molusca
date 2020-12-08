@@ -17,7 +17,7 @@
 🌎 São Paulo - SP, Brazil  
 📚 Economics Undergraduate Student at UFABC  
 🤓 Currently working on some Front End projects and increasing my portfolio  
-💼 I'm currently looking for opportunities 
-🛠 Angular | Vue.js | JavaScript | TypeScript | Python
+💼 I'm currently looking for opportunities  
+🛠 AngularJS | Vue.js | JavaScript | TypeScript | Python
 
 🏅 **Visit [my website](https://lucasfreitas.vercel.app/) to see more info about me**  
