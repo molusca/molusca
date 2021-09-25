@@ -19,4 +19,4 @@
 🛠 AngularJS | JavaScript | TypeScript | Ionic | NodeJS  
   
 
-🤓 Currently working on the FullStack development of Web and Hybrid apps   
+🤓 Currently working with FullStack development of Web and Hybrid apps   
