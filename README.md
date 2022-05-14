@@ -13,10 +13,10 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ### I am Lucas Freitas
-👨‍💻 Junior III FullStack dev  
+👨‍💻 FullStack Developer  
 🌎 São Paulo - SP, Brazil  
 📚 Information Systems student at UAM  
-🛠 AngularJS | JavaScript | TypeScript | Ionic | NodeJS  
+🛠 Angular | TypeScript | Node.js | MySQL | MongoDB  
   
 
 🤓 Currently working with FullStack development of Web and Hybrid apps   
