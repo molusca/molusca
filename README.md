@@ -14,8 +14,8 @@
 🧙‍♂️ 4+ years of exp delivering software solutions  
 🌎 São Paulo - SP, Brazil  
 📚 Information Systems student at UAM  
-🛠 Angular | TypeScript | Node.js | NestJS | SQL | Next.js | React | Ruby | Solidity
+🛠 Angular | TypeScript | Node.js | NestJS | SQL | Next.js | React | Solidity
   
 
-🤓 Currently working with private Web projects as a Frontend Engineer (Angular)    
+🤓 Currently working as a Frontend Engineer for private Web projects    
 🧠 Currently improving my algorithm skills and studying web3
