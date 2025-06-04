@@ -11,10 +11,10 @@
 
 ### I am Lucas Freitas
 👨‍💻 FullStack Developer  
-🧙‍♂️ 4+ years of exp delivering software solutions  
+🧙‍♂️ 6+ years of exp delivering software solutions  
 🌎 São Paulo - SP, Brazil  
 📚 Information Systems student at UAM  
-🛠 Angular | TypeScript | Node.js | NestJS | SQL | Next.js | React | Solidity
+🛠 Angular | React | Next.js | TypeScript | NestJS | Node.js | Solidity
   
 
 🤓 Currently working as a Frontend Engineer for private Web projects    
